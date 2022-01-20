@@ -19,9 +19,9 @@
     - 1 cable to transmit and 1 cable to receive
     - Fiber optics single mode (more expensive) and multi mode
     
-    ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled.png)
+    [comment]: ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled.png)
     
-    ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%201.png)
+    [comment]: ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%201.png)
     
 
 # Day 3: The OSI Model
@@ -211,15 +211,11 @@
 - *duplex*
 - *Interface range* *int_name_range* (i.e f0/5 - 10, or f0/5 -7, f0/9-10)
     - One can separate them with commas
-    
-    ---
-    
-    ---
-    
+  
 - Lab Examples
     - When duplex type is set in one end (Router) but not in the other (Switch), Protocol (Layer 2) is down.
 
-![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%202.png)
+[comment]: ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%202.png)
 
 # Day 10: IPv4 Header
 
@@ -229,4 +225,4 @@
 
 # Day 13-15: Subnetting
 
-![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%203.png)
+[comment]: ![Untitled](CCNA%20Notes%20181f28b43e264c7ea740b5e956923c5c/Untitled%203.png)
